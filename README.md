@@ -1,4 +1,4 @@
-# AgriAssist 🌱
+# AgriAssist
 
 AgriAssist is a smart farming assistant built with Streamlit that helps farmers choose the best crops and fertilizers for their land using data-driven recommendations.
 
